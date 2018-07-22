@@ -20,3 +20,6 @@ six==1.11.0
 SQLAlchemy==1.2.10
 Werkzeug==0.14.1
 wrapt==1.10.11
+uwsgi
+psycopg2
+
